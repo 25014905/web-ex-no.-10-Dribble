@@ -390,15 +390,15 @@ community.html
 ```
 
 ## OUTPUT:
-![Image](./caseapp/12.png)
-![Image](./caseapp/13.png)
-![Image](./caseapp/14.png)
-![Image](./caseapp/15.png)
-![Image](./caseapp/16.png)
-![Image](./caseapp/17.png)
-![Image](./caseapp/18.png)
-![Image](./caseapp/19.png)
-![alt text](caseapp/12.png)
+![Image](caseapp/12.png)
+![Image](caseapp/13.png)
+![Image](caseapp/14.png)
+![Image](caseapp/15.png)
+![Image](caseapp/16.png)
+![Image](caseapp/17.png)
+![Image](caseapp/18.png)
+![Image](caseapp/19.png)
+
 
 
 DEVELOPED BY: MIRDULA D
